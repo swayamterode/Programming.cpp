@@ -7,3 +7,4 @@
 - [Nobita and Profit](../Chapter%202%3A%20Strings%20and%20Flow%20Control/1.Strings%20and%20Math%20functions/5.Nobita%20and%20Profit.cpp)
 - [Operators](../Chapter%202%3A%20Strings%20and%20Flow%20Control/1.Strings%20and%20Math%20functions/6.Operators.cpp)
 - [Simple Sum](../Chapter%202%3A%20Strings%20and%20Flow%20Control/1.Strings%20and%20Math%20functions/7.Simple%20Sum.cpp)
+- [Dishes](../Chapter%202%3A%20Strings%20and%20Flow%20Control/1.Strings%20and%20Math%20functions/8.Dishes.cpp)
