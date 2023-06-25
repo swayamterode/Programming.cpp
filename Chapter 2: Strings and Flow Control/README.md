@@ -25,3 +25,13 @@
 - [Grades](../Chapter%202%3A%20Strings%20and%20Flow%20Control/2.Conditional%20Statements/03.Grades.cpp)
 - [Leap Year](../Chapter%202%3A%20Strings%20and%20Flow%20Control/2.Conditional%20Statements/04.Leap%20Yead.cpp)
 - [Odd or Even Numbers](../Chapter%202%3A%20Strings%20and%20Flow%20Control/2.Conditional%20Statements/05.Odd%20or%20Even%20Numbers.cpp)
+
+## Chapter 3 • Switch Case and Loops
+
+- [Greatest of Three Numbers](../Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/01.Greatest%20of%20Three%20numbers.cpp)
+- [Days of week](../Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/02.Days%20of%20week.cpp)
+- [Sum of first N natural numbers](../Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/03.Sum%20of%20first%20N%20natural%20numbers.cpp)
+- [Months of the year](../Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/04.Months%20of%20the%20year.cpp)
+- [Sum of numbers in a range](../Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/06.Sum%20of%20numbers%20in%20a%20range.cpp)
+- [Factorial](../Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/05.Factorial.cpp)
+- [Fibonacci Series](../Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/07.Fibonacci%20Series.cpp)
