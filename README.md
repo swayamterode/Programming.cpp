@@ -40,17 +40,15 @@
 - [Fahrenheit to Celcius](./Chapter%201%3A%20C%2B%2B%20Basics//3.Operators/19.Fahrenheit%20to%20Celcius.cpp)
 - [Calculate volume of Cylinder](./Chapter%201%3A%20C%2B%2B%20Basics//3.Operatrs/20.Calculate%20volume%20of%20Cylinder.cpp)
 
----
-
 </details>
 
 ## Chapter 2 • Strings and Flow Control
 
-### Strings and Math functions
-
 <details>
 
 <summary>Details</summary>
+
+### Strings and Math functions
 
 - [Waiting Time](./Chapter%202%3A%20Strings%20and%20Flow%20Control/1.Strings%20and%20Math%20functions/01.Waiting%20Time.cpp)
 - [Nobits's Test](./Chapter%202%3A%20Strings%20and%20Flow%20Control/1.Strings%20and%20Math%20functions/02.Nobitas's%20Test.cpp)
@@ -85,7 +83,5 @@
 - [Sum of numbers in a range](./Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/06.Sum%20of%20numbers%20in%20a%20range.cpp)
 - [Factorial](./Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/05.Factorial.cpp)
 - [Fibonacci Series](./Chapter%202%3A%20Strings%20and%20Flow%20Control/3.Switch%20Case%20and%20Loops/07.Fibonacci%20Series.cpp)
-
----
 
 </details>
