@@ -11,3 +11,10 @@
 - [Create a class called Student](../Chapter%204%3A%20Methods%20%26%20OOPs/1.Methods%20and%20OOPs/07.Create%20a%20class%20called%20Student.cpp)
 - [Create a class called "Dog "](../Chapter%204%3A%20Methods%20%26%20OOPs/1.Methods%20and%20OOPs/08.Create%20a%20class%20called%20Dog.cpp)
 - [Create a class called "Animal" and constructor](../Chapter%204%3A%20Methods%20%26%20OOPs/1.Methods%20and%20OOPs/09.Create%20a%20class%20called%20Animal%20and%20constructor.cpp)
+
+## Chapter 2 • OOPs Part 2
+
+- [Create a class called Animal](../Chapter%204%3A%20Methods%20%26%20OOPs/2.OOPs%20Part%202/001.Create%20a%20class%20called%20Animal.cpp)
+- [Create a class called Animal I](../Chapter%204%3A%20Methods%20%26%20OOPs/2.OOPs%20Part%202/002.Create%20a%20class%20called%20Animal%20I.java)
+- [Create a class called Shape I](../Chapter%204%3A%20Methods%20%26%20OOPs/2.OOPs%20Part%202/003.Create%20a%20class%20called%20Shape%20I.cpp)
+- [Create a class called Shape II](../Chapter%204%3A%20Methods%20%26%20OOPs/2.OOPs%20Part%202/004.Create%20a%20class%20called%20Shape%20II.java)
