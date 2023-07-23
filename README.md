@@ -1,5 +1,7 @@
 # Programming in C++
 
+<details>
+
 ## Chapter 1 · C++ Basics
 
 <details>
@@ -158,5 +160,7 @@
 - [Create a class called Animal I](./Chapter%204%3A%20Methods%20%26%20OOPs/2.OOPs%20Part%202/002.Create%20a%20class%20called%20Animal%20I.java)
 - [Create a class called Shape I](./Chapter%204%3A%20Methods%20%26%20OOPs/2.OOPs%20Part%202/003.Create%20a%20class%20called%20Shape%20I.cpp)
 - [Create a class called Shape II](./Chapter%204%3A%20Methods%20%26%20OOPs/2.OOPs%20Part%202/004.Create%20a%20class%20called%20Shape%20II.java)
+
+</details>
 
 </details>
