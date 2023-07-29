@@ -2,6 +2,10 @@
 
 ## Maths for Coding
 
+## Binary Search
+
+- [Search in Rotated Sorted Array](../Data%20Structures%20&%20Algorithms%20Fellowship/02.Binary%20Search/08.Search%20in%20Rotated%20Sorted%20Array/README.md)
+
 ## Recursion and Backtracking
 
 ### · Recursion
