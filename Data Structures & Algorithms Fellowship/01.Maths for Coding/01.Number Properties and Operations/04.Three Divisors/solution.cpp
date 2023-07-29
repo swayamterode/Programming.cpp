@@ -3,7 +3,6 @@ class Solution
 public:
     bool isThree(int n)
     {
-        // Your code goes here
         int count = 0;
         for (int i = 1; i <= n; i++)
         {

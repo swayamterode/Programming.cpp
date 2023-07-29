@@ -4,11 +4,13 @@
 
 ## Binary Search
 
+- [Find Peak Element](../Data%20Structures%20&%20Algorithms%20Fellowship/02.Binary%20Search/01.Find%20Peak%20Element/README.md)
+- [Find the Duplicate Number](../Data%20Structures%20&%20Algorithms%20Fellowship/02.Binary%20Search/04.Find%20the%20Duplicate%20Number/README.md)
 - [Search in Rotated Sorted Array](../Data%20Structures%20&%20Algorithms%20Fellowship/02.Binary%20Search/08.Search%20in%20Rotated%20Sorted%20Array/README.md)
 
 ## Recursion and Backtracking
 
-### · Recursion
+### Recursion
 
 - [Pow(x, n)](<../Data%20Structures%20&%20Algorithms%20Fellowship/05.Recursion%20and%20Backtracking/Recursion/01.Pow(x,%20n)/solution.cpp>)
 - [Valid Palindrome](../Data%20Structures%20&%20Algorithms%20Fellowship/05.Recursion%20and%20Backtracking/Recursion/02.Valid%20Palindrome/solution.cpp)
@@ -19,7 +21,7 @@
 
 ## Sorting Techniques
 
-### · Basic Algorithm
+### Basic Algorithm
 
 - [Bubble Sort](../Data%20Structures%20&%20Algorithms%20Fellowship/06.Sorting%20Techniques/01.Basic%20Algorithms/01.Bubble%20Sort/README.md)
 - [Save Patients](../Data%20Structures%20&%20Algorithms%20Fellowship/06.Sorting%20Techniques/01.Basic%20Algorithms/02.Save%20Patients/README.md)
