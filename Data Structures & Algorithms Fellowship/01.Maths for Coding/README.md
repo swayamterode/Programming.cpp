@@ -8,3 +8,7 @@
 - [Three Divisors](../01.Maths%20for%20Coding/01.Number%20Properties%20and%20Operations/04.Three%20Divisors/README.md)
 - [Find Greatest Common Divisor of Array](../01.Maths%20for%20Coding/01.Number%20Properties%20and%20Operations/05.Find%20Greatest%20Common%20Divisor%20of%20Array/README.md)
 - [Sum Multiples](../01.Maths%20for%20Coding/01.Number%20Properties%20and%20Operations/06.Sum%20Multiples/README.md)
+
+## Chapter 2 · Number Sequences and Series
+
+- [Number of Good Pairs](../01.Maths%20for%20Coding/02.Number%20Sequences%20and%20Series/01.Number%20of%20Good%20Pairs/README.md)
