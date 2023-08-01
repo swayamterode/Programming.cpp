@@ -6,3 +6,4 @@
 - [Climbing Stairs](../Recursion/04.Climbing%20Stairs/solution.cpp)
 - [N-th Tribonacci Number](../Recursion/05.N-th%20Tribonacci%20Number/solution.cpp)
 - [Min Cost Climbing Stairs](../Recursion/06.Min%20Cost%20Climbing%20Stairs.cpp)
+- [Decode String](../Recursion/07.Decode%20String/README.md)
