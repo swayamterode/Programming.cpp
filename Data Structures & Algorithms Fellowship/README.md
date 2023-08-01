@@ -2,6 +2,9 @@
 
 ## Maths for Coding
 
+- [Number of Good Pairs](../Data%20Structures%20&%20Algorithms%20Fellowship/01.Maths%20for%20Coding/02.Number%20Sequences%20and%20Series/01.Number%20of%20Good%20Pairs/README.md)
+- [Missing Number](../Data%20Structures%20&%20Algorithms%20Fellowship/01.Maths%20for%20Coding/02.Number%20Sequences%20and%20Series/02.Missing%20Number/README.md)
+
 ## Binary Search
 
 - [Find Peak Element](../Data%20Structures%20&%20Algorithms%20Fellowship/02.Binary%20Search/01.Find%20Peak%20Element/README.md)

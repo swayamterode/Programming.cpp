@@ -12,3 +12,4 @@
 ## Chapter 2 · Number Sequences and Series
 
 - [Number of Good Pairs](../01.Maths%20for%20Coding/02.Number%20Sequences%20and%20Series/01.Number%20of%20Good%20Pairs/README.md)
+- [Missing Number](../01.Maths%20for%20Coding/02.Number%20Sequences%20and%20Series/02.Missing%20Number/README.md)
