@@ -10,3 +10,4 @@
 - [Min Cost Climbing Stairs](../05.Recursion%20and%20Backtracking/Recursion/06.Min%20Cost%20Climbing%20Stairs/README.md)
 - [Decode String](../05.Recursion%20and%20Backtracking/Recursion/07.Decode%20String/README.md)
 - [Power of Four](../05.Recursion%20and%20Backtracking/Recursion/08.Power%20of%20Four/README.md)
+- [Power of Three](../05.Recursion%20and%20Backtracking/Recursion/09.Power%20of%20Three/README.md)

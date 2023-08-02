@@ -8,3 +8,4 @@
 - [Min Cost Climbing Stairs](../Recursion/06.Min%20Cost%20Climbing%20Stairs.cpp)
 - [Decode String](../Recursion/07.Decode%20String/README.md)
 - [Power of Four](../Recursion/08.Power%20of%20Four/README.md)
+- [Power of Three](../Recursion/09.Power%20of%20Three/README.md)
